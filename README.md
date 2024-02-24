@@ -6,6 +6,6 @@
 
 * Managing State with Hooks
 
-* MongoDB Database with Mongoose middleware
+* MongoDB Database with Mongoose middleware, axios
 
 * Tailwind Css and React-Icons for styling components
