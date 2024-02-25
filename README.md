@@ -8,4 +8,4 @@
 
 * MongoDB Database with Mongoose middleware, axios
 
-* Tailwind Css and React-Icons for styling components
+* TailwindCss and React-Icons for styling components
